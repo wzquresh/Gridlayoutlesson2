@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="totalText">Total</string>
+    <string name="percent15Text">15%</string>
+    <string name="customPercentText">Custom %</string>
+    <string name="custom18PercentText">18%</string>
+    <string name="amountText">Amount</string>
+    <string name="tipText">Tip</string>
+</resources>
